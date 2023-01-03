@@ -20,9 +20,7 @@ body{
 svg {
   width: 100%;
 }
-.aniversariante{
-  width: 100%;
-}
+
 .saudacoes{
     display: flex; 
     margin-top: -40px;
@@ -32,10 +30,6 @@ svg {
     font-size: 20px;
     color: white;
 }
-img {
-    max-width: 100%;
-    display: block;
-  }
   
   .slide {
     max-width: 100%;
@@ -63,11 +57,13 @@ img {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
   }
+
   .slide-items {
     position: relative;
     grid-area: 1/1;
     border-radius: 5px;
     overflow: hidden;
+
   }
   
   .slide-nav {
