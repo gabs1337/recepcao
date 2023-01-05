@@ -13,12 +13,14 @@ body{
     background-image: linear-gradient(to right, rgba(0, 162, 255, 0.984), rgb(0, 225, 255));
     display: flex;
     flex-direction: column;
-    overflow-y: hidden; /* Hide vertical scrollbar */
-    overflow-x: hidden; /* Hide horizontal scrollbar */
+    overflow-y: hidden; 
+    overflow-x: hidden; 
 
 }
+
 svg {
   width: 100%;
+  
 }
 
 .saudacoes{
@@ -27,7 +29,7 @@ svg {
     margin-left: 9px;
     justify-content: space-between;
     font-family: 'Indie Flower', cursive;
-    font-size: 20px;
+    font-size: 30px;
     color: white;
 }
   
